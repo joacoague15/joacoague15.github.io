@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ab0bab2b.js",
+    "static/media/focused_paladin.png": "/static/media/focused_paladin.022e6d9ace959b34c7b1.png",
+    "static/media/happy_paladin.png": "/static/media/happy_paladin.4638c22f14b24a3e8a01.png",
+    "static/media/angry_paladin.png": "/static/media/angry_paladin.e91d9719985058595e5c.png",
+    "static/media/focus9.mp3": "/static/media/focus9.3e4cc3981c5f84a14015.mp3",
+    "static/media/happy7.mp3": "/static/media/happy7.2fa8aa1645803ae7dc56.mp3",
+    "static/media/happy2.mp3": "/static/media/happy2.8f3429ccef187e83845f.mp3",
+    "static/media/focus8.mp3": "/static/media/focus8.d84c6f2ced3b1d0b946e.mp3",
+    "static/media/angry6.mp3": "/static/media/angry6.fb87429af11893bacad1.mp3",
+    "static/media/focus2.mp3": "/static/media/focus2.8791ba0e79a68f8fe5b4.mp3",
+    "static/media/focus10.mp3": "/static/media/focus10.d4bb6c631be9f1d5a3f5.mp3",
+    "static/media/focus1.mp3": "/static/media/focus1.5c377d4afddce53d8da1.mp3",
+    "static/media/happy10.mp3": "/static/media/happy10.2662c8d5013d4ffdd10b.mp3",
+    "static/media/happy3.mp3": "/static/media/happy3.162faa1a7f65936863a9.mp3",
+    "static/media/focus4.mp3": "/static/media/focus4.c8916105c4b393797226.mp3",
+    "static/media/angry5.mp3": "/static/media/angry5.2a43e8082d518b7d3312.mp3",
+    "static/media/focus5.mp3": "/static/media/focus5.d2fa359870c0c42ed440.mp3",
+    "static/media/angry1.mp3": "/static/media/angry1.213c4112b4849f466758.mp3",
+    "static/media/focus7.mp3": "/static/media/focus7.62f50d6c24f5c750528f.mp3",
+    "static/media/happy5.mp3": "/static/media/happy5.7d755d0745cd5f0e1366.mp3",
+    "static/media/focus3.mp3": "/static/media/focus3.9379324ca0005edba719.mp3",
+    "static/media/happy6.mp3": "/static/media/happy6.7876867cda5f51bd52f7.mp3",
+    "static/media/happy8.mp3": "/static/media/happy8.0500899b344cd9f2c707.mp3",
+    "static/media/happy1.mp3": "/static/media/happy1.eebafceb102ee2468717.mp3",
+    "static/media/happy9.mp3": "/static/media/happy9.b0611614e8af9a4a7761.mp3",
+    "static/media/angry8.mp3": "/static/media/angry8.a2115975582d5a84aa0e.mp3",
+    "static/media/angry9.mp3": "/static/media/angry9.ee6fb1455a4d446205e5.mp3",
+    "static/media/angry7.mp3": "/static/media/angry7.6036e76acb2c4865d41e.mp3",
+    "static/media/angry2.mp3": "/static/media/angry2.1779181215e1ce07b517.mp3",
+    "static/media/focus6.mp3": "/static/media/focus6.44f3479b5b9a0044310b.mp3",
+    "static/media/angry10.mp3": "/static/media/angry10.7eba8964d4a40405df45.mp3",
+    "static/media/angry3.mp3": "/static/media/angry3.1e471bbadde3b5ff141a.mp3",
+    "index.html": "/index.html",
+    "main.ab0bab2b.js.map": "/static/js/main.ab0bab2b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ab0bab2b.js"
+  ]
+}
